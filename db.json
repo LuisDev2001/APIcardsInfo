@@ -1,0 +1,88 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "image": "https://www.adictosaltrabajo.com/wp-content/uploads/2018/05/el_remozado_javascript.imagen.jpg",
+      "ribbon": "JavaScript",
+      "titleTeam": "Los Crypto",
+      "body": "Ya hace tiempo que la nueva especificación que rige JavaScript viera la luz, y llegó pertrechada de novedades. Sin embargo, hay quien opina que su venida se demoró demasiado, y ahora tiene que ganar terreno frente a otros lenguajes, que parecen estarle ganando por la mano. Pero tiene la ventaja y virtud de que es un estándar, así que acabará sobreponiéndose."
+    },
+    {
+      "id": 2,
+      "image": "https://s3-us-west-2.amazonaws.com/devcodepro/media/tutorials/pseudoclases-css-first-child-last-child-nth-child-t1.png",
+      "ribbon": "CSS",
+      "titleTeam": "CSS Team Perú",
+      "body": "Dentro de CSS existen clases especiales a las cuales podemos denominar pseudoclases, estas nos ayudaran a modificar el comportamiento de los elementos HTML a los que estén aplicados. En este tutorial vamos a centrarnos en las pseudoclases :first-child, :last-child y nth-child.Comencemos hablando de las pseudoclases :first-child, lo que hace es seleccionar al primer elemento dentro de otro elemento, o dicho de otro modo al primer elemento hijo de un elemento padre."
+    },
+    {
+      "id": 3,
+      "image": "https://www.virtualnauta.com/wp-content/uploads/2020/06/%C3%8Dndice-de-los-atributos-de-HTML.png",
+      "ribbon": "HTML 5",
+      "titleTeam": "The Dekus",
+      "body": "HTML, siglas en inglés de HyperText Markup Language (‘lenguaje de marcas de hipertexto’), hace referencia al lenguaje de marcado para la elaboración de páginas web. Es un estándar que sirve de referencia del software que conecta con la elaboración de páginas web en sus diferentes versiones, define una estructura básica y un código (denominado código HTML) para la definición de contenido de una página web, como texto, imágenes, videos, juegos, entre otros."
+    },
+    {
+      "id": 4,
+      "image": "https://www.positronx.io/wp-content/uploads/2018/11/positronx-banner-1152-1.jpg",
+      "ribbon": "TypeScript",
+      "titleTeam": "The Single Script",
+      "body": "Ya hemos establecido que el transpilador de TypeScript se denomina transpilador. Cuando se trata de la funcionalidad más básica de transpiler, este comprueba el código fuente antes de convertirlo en código JavaScript legítimo. Con la ayuda del análisis de código estático, el compilador evita errores en tiempo de ejecución."
+    },
+    {
+      "id": 5,
+      "image": "https://miro.medium.com/max/3652/1*MCiNLBzUI-LWK_PhVwq0xA.png",
+      "ribbon": "SASS",
+      "titleTeam": "CSS Team Perú",
+      "body": "Sass es un acrónimo para Syntactically Awesome Stylesheets, y hace referencia a un preprocesador de hojas de estilo que viene a otorgar poderes al estático y poco práctico lenguaje CSS, convirtiéndolo en un lenguaje de scripting."
+    },
+    {
+      "id": 6,
+      "image": "https://blog.desafiolatam.com/wp-content/uploads/2019/04/react-galaxia.png",
+      "ribbon": "React JS",
+      "titleTeam": "React Lovers",
+      "body": "Es una librería Javascript de código abierto elaborada por un equipo de Facebook para la creación de interfaces de usuario. React se centra en la capa de visualización (en el modelo MVC), por lo que es una gran herramienta cuando se trabaja con data que cambia en tiempo real, dado que te permite actualizar la información sin necesidad de recargar la página completa."
+    },
+    {
+      "id": 7,
+      "image": "https://www.belatrixsf.com/blog/wp-content/uploads/2018/05/An-introduction-to-AngularJS.jpg",
+      "ribbon": "Angular JS",
+      "titleTeam": "Team Angular Colombia",
+      "body": "¿Qué es Angular?, Es un framework de estructura para aplicaciones web dinámicas, hecho en javascript puro.,¿Qué significa que sea un framework estructural?, El hecho de que sea un framework estructural nos permite usar HTML como lenguaje de plantilla y extender su sintaxis para expresar los componentes de la aplicación de una manera más limpia y sencilla."
+    },
+    {
+      "id": 8,
+      "image": "https://wallpapercave.com/wp/wp6878944.jpg",
+      "ribbon": "Vue JS",
+      "titleTeam": "Team Vue Argentina",
+      "body": "Vue es un framework open source de JavaScript, el cual nos permite construir interfaces de usuarios de una forma muy sencilla. La curva de aprendizaje, desde mi punto de vista, es relativamente baja, claro, debes conocer muy bien JavaScript, saber trabajar con callbacks, promesas, objetos, entre otros temas más."
+    },
+    {
+      "id": 9,
+      "image": "https://luismasdev.com/content/images/size/w2000/2016/11/less.jpg",
+      "ribbon": "Less",
+      "titleTeam": "CSS Team Perú",
+      "body": "LESS es un preprocesador que extiende las posibilidades del CSS, es gracias a esta herramienta podemos tener un mejor control de nuestro código CSS y podemos crear (variables, mezclas, operaciones, reglas anidadas, ...)."
+    },
+    {
+      "id": 10,
+      "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xHiUcNsn--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/7z45wj3cp8xoq7wje2fh.jpeg",
+      "ribbon": "Svelte",
+      "titleTeam": "The Svelte Coding",
+      "body": "Svelte es un framework de Javascript que nos permite construir interfaces de usuario del lado frontend, podrían decir que es un sector ya muy dominado por otras opciones como React y Vue pero donde Svelte se diferencia de las demás opciones es que no es una dependencia que se necesite una vez terminado el proyecto, es más como un compilador, que procesa tu aplicación y la convierte a Javascript nativo"
+    },
+    {
+      "id": 11,
+      "image": "https://www.cice.es/wp-content/uploads/2020/06/programar-en-python.jpg",
+      "ribbon": "Python",
+      "titleTeam": "Python Team",
+      "body": "Python es un lenguaje de programación de código abierto (gratuito) que se utiliza en programación web, ciencia de datos, inteligencia artificial y muchas aplicaciones científicas. Aprender Python permite al programador concentrarse en resolver problemas, en lugar de enfocarse en la sintaxis."
+    },
+    {
+      "id": 12,
+      "image": "https://aldibs.com/wp-content/uploads/2020/01/ruby-on-rails-development.jpg",
+      "ribbon": "Ruby on Rails",
+      "titleTeam": "Ruby on Rails Team",
+      "body": "Ruby on Rails, también conocido como RoR o Rails, es un framework de aplicaciones web de código abierto escrito en el lenguaje de programación Ruby, siguiendo el paradigma del patrón Modelo Vista Controlador."
+    }
+  ]
+}
